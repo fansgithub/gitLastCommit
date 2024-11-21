@@ -1,0 +1,64 @@
+Repository: are-alarm-web
+Commit ID: 9492ffd7880c50120f550f3236e4321e0f686202
+
+========================================
+Repository: are-client
+Commit ID: 0c426bd5c7e4e00a8b7427e844fb9e701c9a26a4
+
+========================================
+Repository: are-flowchart-web
+Commit ID: 2c887249df30708931690150085102fcfdabc14b
+
+========================================
+Repository: are-trend-web
+Commit ID: b3df03f217417679bff79462ceed99d03cf355a6
+
+========================================
+Repository: are-log-service-web
+Commit ID: f5e0ea0465dcd95394085d02cab06f8a646d54b9
+
+========================================
+Repository: are-utils-web
+Commit ID: b3d2254460f32961550a8ba88604820a9158c807
+
+========================================
+Repository: basic-root-config
+Commit ID: 07d36aefbc0f999e227aa318a73efe9e1eadebbb
+
+========================================
+Repository: fusionsite-are-diagnosis-web
+Commit ID: 50374fae722a686e3d674678a31f44e18ae58d2e
+
+========================================
+Repository: mare-basic-web
+Commit ID: f00d38597abbf8980266811a4d0625edb02c178f
+
+========================================
+Repository: mare-common-web
+Commit ID: 8900cb4d33f48eacbb7b36c49b4faba77c86b0a6
+
+========================================
+Repository: resexplorer
+Commit ID: 5fcafae2b3ef21dd8e5197a92470b584dfce7bd7
+
+========================================
+Repository: unifiedconfigtool
+Commit ID: 91979a8916262881301238acbd151df200a079c5
+
+========================================
+Repository: electric-control
+Commit ID: f7fb50014ce4c69c9c4c94a92a0fa571c2e5010b
+
+========================================
+Repository: params-config-web
+Commit ID: 36ca98e5e70db3796248a615078a80d55a049ab6
+
+========================================
+Repository: tsi-log-tool-web
+Commit ID: 23d608b9eedbb748631f84a5622ade5e79ce95a2
+
+========================================
+Repository: fsauthorizationtool
+Commit ID: 57b57dc9b4cde616bb1db44e5db5e82332dc08cd
+
+========================================
